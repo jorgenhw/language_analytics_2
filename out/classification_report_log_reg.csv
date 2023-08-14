@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support
+FAKE,0.89,0.88,0.88,628.0
+REAL,0.88,0.9,0.89,639.0
+accuracy,0.89,0.89,0.89,0.89
+macro avg,0.89,0.89,0.89,1267.0
+weighted avg,0.89,0.89,0.89,1267.0
